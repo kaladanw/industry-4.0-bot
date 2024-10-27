@@ -1,1 +1,2 @@
 # industry-4.0-bot
+This is a langchain powered RAG bot to assist in research for industry 4.0 use cases. It incorporates data from various reputable sources(Mckinsey, Bessemer roadmaps, IBM, and Google Cloud reports) to assist in gaining knoledge on the space as well as conducting research into prospective projects. First experience with RAGs and I hope that this can help people interested in the future of LLMs for manufacturing tech and adjacent industries(fintech, healthcare, etc.)
